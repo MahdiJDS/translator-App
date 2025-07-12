@@ -9,7 +9,6 @@ Translate any text instantly into multiple languages with real-time feedback, er
 ## 🖼️ Preview
 
 ![Signature Pad Screenshot](./Screenshot%20Translate.png)  
-*Simple and smooth drawing experience with one-click download*
 
 ---
 
