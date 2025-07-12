@@ -19,7 +19,7 @@ function translateText() {
     headers: {
       "Content-Type": "application/json",
       "x-rapidapi-host": "google-translate113.p.rapidapi.com",
-      "x-rapidapi-key": "d05e17dc30mshbf638fdbb924e82p13c232jsn4771cf03b46f"
+      "x-rapidapi-key": "YOUR-API-KEY"
     },
     body: JSON.stringify({
       from: "auto",
